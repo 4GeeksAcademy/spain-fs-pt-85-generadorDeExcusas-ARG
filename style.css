@@ -1,0 +1,6 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+#excuse {
+  display: flex;
+  justify-content: center;
+  margin-top: 40vh;
+}
